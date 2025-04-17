@@ -1,2 +1,2 @@
 # Webapp-Lms
-Simple WEB Application 
+Simple Web Application 
